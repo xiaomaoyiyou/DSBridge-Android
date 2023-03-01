@@ -4,6 +4,7 @@ buildscript {
     repositories {
         jcenter()
     }
+//修改0
     dependencies {
         classpath 'com.android.tools.build:gradle:2.3.2'
 
@@ -11,11 +12,16 @@ buildscript {
         // in the individual module build.gradle files
     }
 }
+//修改1
 allprojects {
     repositories {
         jcenter()
     }
 }
+//doctor_arXIUG
+//xiugg
+//xx
+//修改2
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
