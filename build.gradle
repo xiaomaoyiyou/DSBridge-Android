@@ -16,7 +16,12 @@ buildscript {
 //修改1
 //=======
 //development修改测试啊
+//<<<<<<< HEAD----------------------------------BO
 //>>>>>>> development===================哈哈哈
+//=======
+//再度灌灌灌灌灌
+
+//////////////////////////////////////>>>>>>> development
 allprojects {
     repositories {
         jcenter()
