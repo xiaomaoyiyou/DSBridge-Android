@@ -12,7 +12,11 @@ buildscript {
         // in the individual module build.gradle files
     }
 }
+//<<<<<<< HEAD===============爱丁堡
 //修改1
+//=======
+//development修改测试啊
+//>>>>>>> development===================哈哈哈
 allprojects {
     repositories {
         jcenter()
